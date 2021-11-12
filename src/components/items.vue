@@ -45,7 +45,14 @@
                         price:'Rs 1999',
                         code:'00093',
                         image:'https://cdn.shopify.com/s/files/1/0107/9820/2938/products/gmmobile1a_grande.png?v=1635549389'
-                    }
+                    },
+                      {
+                        name:'Nike shoes',
+                        type:'shoes',
+                        price:'Rs 999',
+                        code:'00091',
+                        image:'https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/037c035b-14e3-4cb2-a9c5-65f377f7d1ed/air-zoom-pegasus-38-road-running-shoes-Hmsj6Q.png'
+                    },
                 ]
             }
         }
