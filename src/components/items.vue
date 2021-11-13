@@ -61,7 +61,9 @@
 
 <style scoped>
 .items{
+    margin: 20px;
     display: flex ;
     justify-content: space-around;
+    
 }
 </style>

@@ -2,14 +2,14 @@
       <div>
     <v-app-bar dark  class="header-bar">
          <img width="100px" src="https://www.pngkey.com/png/full/78-789008_nike-shoes-png-nike-rubber-shoes-2017.png" />
-      <v-toolbar-title class="header-title">Shoe Fly</v-toolbar-title>
+      <v-toolbar-title class="header-title"><router-link to="/dashboard">Shoe Fly</router-link></v-toolbar-title>
       <v-spacer>
           <ul class="header-links">
           
-           <li> <router-link to="/">Addidas</router-link> </li>
-          <li> <router-link to="/">Nick</router-link> </li>
-          <li> <router-link to="/">Puma</router-link> </li>
-          <li> <router-link to="/">Fila</router-link> </li>
+           <li> <router-link to="/addidas">Addidas</router-link> </li>
+          <li> <router-link to="/nick">Nick</router-link> </li>
+          <li> <router-link to="/puma">Puma</router-link> </li>
+          <li> <router-link to="/fila">Fila</router-link> </li>
        </ul>
       </v-spacer>
       
@@ -43,7 +43,7 @@
     font-family:cursive;
 }
 
-li a{
+a{
     text-decoration: none;
     color: white;
 }
