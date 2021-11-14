@@ -1,6 +1,7 @@
 <template>
     <div>
         <Header />
+        <img width="100%" height="350px" src="http://blog.runningwarehouse.com/wp-content/uploads/2012/01/Rainbow2-1024x274.jpg" alt="">
         <Items />
         <Items />
         <Items />

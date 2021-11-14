@@ -35,7 +35,7 @@ outline: none;
   }
   .btn{
     display: inline-block;
-    background: rgb(23, 150, 253);
+    background: rgb(33, 34, 34);
     color: #fff!important;
     border: none;
     padding: 10px 20px;

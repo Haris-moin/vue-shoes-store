@@ -7,15 +7,16 @@
       :src="item.image"
     >
     </v-img>
-     <v-card-subtitle class="pb-0">
+     <v-card-subtitle  class="item-title">
       {{item.name}}
     </v-card-subtitle>
-
-    <v-card-text class="text--primary">
-      <div>Whitehaven Beach</div>
-
-      <div>Whitsunday Island, Whitsunday Islands</div>
-    </v-card-text>
+    <div class="price-button-container">
+       
+        <button class="addtocart-btn">add to cart</button>
+         <p>
+            Rs :2400
+        </p>
+    </div>
         </v-card>
     </div>
 </template>
@@ -65,5 +66,28 @@
     display: flex ;
     justify-content: space-around;
     
+}
+.addtocart-btn{
+    background: rgb(26, 26, 26);
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    width: 50%;
+    font-size: 20px;
+    
+}
+.item-title{
+    font-size: 20px;
+    font-family: cursive;
+}
+.price-button-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    align-items: center;
+}
+p{
+    font-size: 20px;
+    margin-right: 10px;
 }
 </style>
