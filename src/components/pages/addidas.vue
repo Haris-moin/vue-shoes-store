@@ -16,10 +16,11 @@ import Items from '../items.vue'
             Items,
             Header
         },
-         async mounted(){
+           async mounted(){
             const res = await fetch("http://localhost:5000/shoes");
-             this.items = await res.json();
-
+              const shoes = await res.json();
+              this.items = shoes.filter(item=> item.type==="addidas");
+           
         },
       data(){
           return {
