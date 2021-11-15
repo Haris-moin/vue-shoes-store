@@ -4,8 +4,7 @@
         <img width="100%"  height="350px" src="https://www.topveganshoes.com/wp-content/uploads/2021/01/Fila-Disruptor-2A-Vegan.jpg" alt="">
         <Items />
         <Items />
-        <Items />
-        <Items />
+      
     </div>
 </template>
 

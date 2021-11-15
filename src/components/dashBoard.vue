@@ -2,7 +2,7 @@
    <div class='home-container'>
      <Header />
       <img width="100%" src="https://static.fibre2fashion.com/articleresources/images/85/8406/shoes_big_Big.jpg"/>
-       <Items />
+       <Items :items="items"/>
    </div>
 </template>
 
@@ -14,6 +14,16 @@
       Items,
       Header
     },
+      async mounted(){
+            const res = await fetch("http://localhost:5000/items");
+             this.items = await res.json();
+
+        },
+      data(){
+          return {
+              items:[]
+          }
+      }
    
   }
 </script>

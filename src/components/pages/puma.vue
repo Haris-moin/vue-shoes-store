@@ -4,8 +4,7 @@
         <img width="100%" height="350px" src="https://sportstardom.com/wp-content/uploads/2020/03/running-shoes-colors.jpg" alt="">
         <Items />
         <Items />
-        <Items />
-        <Items />
+
     </div>
 </template>
 

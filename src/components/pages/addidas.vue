@@ -2,10 +2,9 @@
     <div>
         <Header />
         <img width="100%" height="300px" src="http://247italiastyle.com/ws0202/wp-content/uploads/2019/03/banner-ADIDAs.jpg" alt="addidas">
-        <Items />
-        <Items />
-        <Items />
-        <Items />
+        <Items :items="items"/>
+       
+    
     </div>
 </template>
 
@@ -16,7 +15,17 @@ import Items from '../items.vue'
         components:{
             Items,
             Header
-        }
+        },
+         async mounted(){
+            const res = await fetch("http://localhost:5000/shoes");
+             this.items = await res.json();
+
+        },
+      data(){
+          return {
+              items:[]
+          }
+      }
     }
 </script>
 
