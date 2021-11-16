@@ -39,7 +39,7 @@
     margin: 20px ;
 }
 .addtocart-btn{
-    background: rgb(26, 26, 26);
+    background: rgb(43, 43, 43);
     color: white;
     padding: 7px;
     border-radius: 5px;
@@ -48,7 +48,7 @@
     
 }
 .item-title{
-    font-size: 20px;
+    font-size: 22px;
     font-family: cursive;
 }
 .price-button-container{
@@ -62,6 +62,6 @@ p{
     margin-right: 10px;
 }
 .card{
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 </style>
