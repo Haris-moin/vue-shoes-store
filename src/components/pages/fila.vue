@@ -20,7 +20,6 @@ import Items from '../items.vue'
             const res = await fetch("http://localhost:5000/shoes");
               const shoes = await res.json();
               this.items = shoes.filter(item=> item.type==="fila");
-              console.log('items',this.items)
         },
       data(){
           return {

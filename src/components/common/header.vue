@@ -36,7 +36,7 @@
           </div>
         </div>
         <v-divider />
-        <h2 style="margin-top:20px">Total Amoun: {{totalAmount}}</h2>
+        <h2 style="margin-top:20px">Total Amount: {{totalAmount}}</h2>
       </div>
       <b-button class="mt-3" variant="outline-primary"  block @click="confirmOrder">Confirm</b-button>
       
