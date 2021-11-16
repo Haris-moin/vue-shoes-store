@@ -3,10 +3,10 @@
         <h1>Login</h1>
          <form @submit="onSubmit" class="add-form">
            <div v-if="isErrorMsg" class="error-msg">{{erroMessage}}</div>
-    <div class="form-control">
+    <div >
       <input type="email" required v-model="email"  placeholder="Email" />
     </div>
-    <div class="form-control">
+    <div >
       <input
         type="password"
         v-model="password"

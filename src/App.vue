@@ -13,7 +13,7 @@ export default {
 <style >
  .container{
    text-align: center;
-    max-width: 500px;
+    max-width: 500px !important;
     margin: 30px auto;
     overflow: auto;
     min-height: 300px;
@@ -24,10 +24,11 @@ export default {
   }
   input {
     padding: 10px;
-    margin: 10px;
+    margin: 20px 10px !important;
     width: 80%;
     font-size: 20px !important;
     border-bottom: 1px solid  grey!important;
+    
   }
   input:focus{
 outline: none;
@@ -35,7 +36,7 @@ outline: none;
   }
   .btn{
     display: inline-block;
-    background: rgb(33, 34, 34);
+    background: rgb(33, 34, 34) !important; 
     color: #fff!important;
     border: none;
     padding: 10px 20px;
@@ -64,6 +65,9 @@ outline: none;
 .router-link {
 text-decoration: none;
 color: rgb(23, 150, 253);
+}
+a:hover{
+  color:gray !important;
 }
    
 </style>

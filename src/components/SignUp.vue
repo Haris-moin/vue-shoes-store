@@ -2,10 +2,10 @@
     <div class="container">
         <h1>Sign Up</h1>
          <form @submit="onSubmit" class="add-form">
-    <div class="form-control">
+    <div >
       <input type="email" required v-model="email"  placeholder="Email" />
     </div>
-     <div class="form-control">
+     <div >
       <input
         type="text"
         v-model="name"
@@ -13,7 +13,7 @@
         required
       />
     </div>
-    <div class="form-control">
+    <div >
       <input
         type="text"
         v-model="contact"
@@ -21,7 +21,7 @@
         required
       />
     </div>
-    <div class="form-control">
+    <div >
       <input
         type="password"
         v-model="password"
