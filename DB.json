@@ -1,30 +1,34 @@
 {
     "items":[
         {
+            "id":"000901",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"00091",
             "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/921a7b3f-0f99-47a9-ba27-408624cf5e92/wildhorse-7-trail-running-shoes-rrTmz1.png"
         },
         {
+            "id":"000091",
             "name":"addidas sports",
             "type":"addidas",
-            "price":"Rs 1999",
+            "price":1999,
             "code":"00092",
             "image":"https://cdn.shopify.com/s/files/1/0107/9820/2938/products/gmmobile1a_grande.png?v=1635549389"
         },
         {
+            "id":"000090",
             "name":"Puma shoes",
             "type":"puma",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"00093",
             "image":"https://i1.adis.ws/i/tom_ford/J1100T-TOF001_U4006_APPENDGRID?$listing_grid$"
         },
         {
+            "id":"0001909",
             "name":"Fila shoes",
             "type":"fila",
-            "price":"Rs 1999",
+            "price":1999,
             "code":"00094",
             "image":"https://scene7.zumiez.com/is/image/zumiez/image/FILA-Disruptor-Multicolor-%26-White-Shoes-_311646.jpg"
         }
@@ -35,7 +39,7 @@
             "id":"0001",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 1999",
+            "price":1999,
             "code":"00091",
             "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/921a7b3f-0f99-47a9-ba27-408624cf5e92/wildhorse-7-trail-running-shoes-rrTmz1.png"
         },
@@ -43,7 +47,7 @@
             "id":"0002",
             "name":"addidas sports",
             "type":"addidas",
-            "price":"Rs 1999",
+            "price":1999,
             "code":"00092",
             "image":"https://cdn.shopify.com/s/files/1/0107/9820/2938/products/gmmobile1a_grande.png?v=1635549389"
         },
@@ -51,7 +55,7 @@
             "id":"0003",
             "name":"Puma shoes",
             "type":"puma",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"00093",
             "image":"https://i1.adis.ws/i/tom_ford/J1100T-TOF001_U4006_APPENDGRID?$listing_grid$"
         },
@@ -59,7 +63,7 @@
             "id":"0004",
             "name":"Fila shoes",
             "type":"fila",
-            "price":"Rs 1799",
+            "price":1799,
             "code":"00095",
             "image":"https://scene7.zumiez.com/is/image/zumiez/image/FILA-Disruptor-Multicolor-%26-White-Shoes-_311646.jpg"
         },
@@ -67,7 +71,7 @@
             "id":"0005",
             "name":"Fila shoes",
             "type":"fila",
-            "price":"Rs 3499",
+            "price":3499,
             "code":"00096",
             "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/037c035b-14e3-4cb2-a9c5-65f377f7d1ed/air-zoom-pegasus-38-road-running-shoes-Hmsj6Q.png"
         },
@@ -75,7 +79,7 @@
             "id":"0006",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"00097",
             "image":"https://c.static-nike.com/a/images/f_auto/dpr_2.0/h_500,c_limit/g1ljiszo4qhthfpluzbt/123-joyride-cdp-apla-xa-xp.jpg"
         },
@@ -83,7 +87,7 @@
             "id":"0007",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 2499",
+            "price":2499,
             "code":"00098",
             "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/037c035b-14e3-4cb2-a9c5-65f377f7d1ed/air-zoom-pegasus-38-road-running-shoes-Hmsj6Q.png"
         },
@@ -91,7 +95,7 @@
             "id":"0008",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 4999",
+            "price":4999,
             "code":"0009118",
             "image":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4jPhKEFw1NE/v0/1200x857.jpg"
         },
@@ -99,7 +103,7 @@
             "id":"0009",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"000917",
             "image":"https://static01.nyt.com/images/2021/05/27/fashion/24SNEAKERCOLORS-sacai-SUB/24SNEAKERCOLORS-sacai-SUB-facebookJumbo.jpg"
         },
@@ -107,7 +111,7 @@
             "id":"00010",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 2499",
+            "price":2499,
             "code":"000919",
             "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ad5eb97a-53f7-49e4-b7da-b0b756c70b89/air-presto-mens-shoes-JlLlWz.png"
         },
@@ -115,7 +119,7 @@
             "id":"00011",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 4999",
+            "price":4999,
             "code":"00015",
             "image":"https://www.famousfootwear.com/blob/product-images/20000/95/36/4/95364_pair_large.jpg"
         },
@@ -123,7 +127,7 @@
             "id":"00012",
             "name":"Nike shoes",
             "type":"nike",
-            "price":"Rs 4999",
+            "price":4999,
             "code":"00014",
             "image":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8978d034-93ec-4e28-825d-5732cdf81304/wearallday-womens-shoes-knM7Ct.png"
         },
@@ -131,7 +135,7 @@
             "id":"00013",
             "name":"addidas sports",
             "type":"addidas",
-            "price":"Rs 4999",
+            "price":4999,
             "code":"00013",
             "image":"https://5.imimg.com/data5/XF/ZL/SQ/ANDROID-92919347/product-jpeg-500x500.jpg"
         },
@@ -139,7 +143,7 @@
             "id":"00014",
             "name":"addidas sports",
             "type":"addidas",
-            "price":"Rs 3499",
+            "price":3499,
             "code":"00012",
             "image":"https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/09c5ea6df1bd4be6baaaac5e003e7047_9366/Forum_Low_Shoes_White_FY7756_01_standard.jpg"
         },
@@ -147,7 +151,7 @@
             "id":"00015",
             "name":"addidas sports",
             "type":"addidas",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"00011",
             "image":"https://www.cnet.com/a/img/pXLdxVq7E1Jbllkb6HgpSb8wyPo=/247x56:1344x927/940x0/2021/04/08/54509edc-39cb-4d3e-a049-5ce2def00718/lego-adidas.png"
         },
@@ -155,7 +159,7 @@
             "id":"00016",
             "name":"Puma shoes",
             "type":"puma",
-            "price":"Rs 2999",
+            "price":2999,
             "code":"001909",
             "image":"http://www.symbios.pk/image/data/leoared_2.JPG"
         },
@@ -163,7 +167,7 @@
             "id":"00017",
             "name":"Puma shoes",
             "type":"puma",
-            "price":"Rs 4999",
+            "price":4999,
             "code":"001970",
             "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/375971/01/sv01/fnd/IND/fmt/png/Future-Rider-International-Game-Shoes"
         },
@@ -171,15 +175,15 @@
             "id":"00018",
             "name":"Puma shoes",
             "type":"puma",
-            "price":"Rs 2599",
-            "code":"001909",
+            "price":2599,
+            "code":"0019010",
             "image":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/374190/16/sv01/fnd/IND/fmt/png"
         },
         {
             "id":"00019",
             "name":"Fila shoes",
             "type":"fila",
-            "price":"Rs 1899",
+            "price":1899,
             "code":"000990",
             "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-171429,resizemode-1,msid-65633240/magazines/panache/fila-supercharge-high-review-solid-riding-shoes-every-biker-needs.jpg"
         },
@@ -187,7 +191,7 @@
             "id":"00020",
             "name":"Fila shoes",
             "type":"fila",
-            "price":"Rs 2799",
+            "price":2799,
             "code":"000967",
             "image": "https://www.tennis-point.com/images/l/1TM01748-421.jpg?v=101774300355-1"
         }
